@@ -46,8 +46,6 @@ For a quick installation download the [apk](apk/app-debug.apk)
 
 ## Preview
 
-A quick [demo](files/demo.mp4) video has also been added for preview. 
-
 <img src="files/home.jpg" width=108 height="240"> <img src="files/search_home.jpg" width=108 height="240"> 
 <img src="files/save_news.jpg" width=108 height="240"> <img src="files/saved.jpg" width=108 height="240"> 
 <img src="files/search_saved.jpg" width=108 height="240"> <img src="files/read_article.jpg" width=108 height="240"> 
