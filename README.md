@@ -6,7 +6,7 @@ NewsBreeze is an unofficial newsApi client that gets the latest breaking news to
 
 ## Table of Contents
 
-> * [Title](#beat-box)
+> * [Title](#newsbreeze)
 > * [Synopsis](#synopsis)
 > * [Table of Contents](#table-of-contents)
 > * [Features](#features)
@@ -54,5 +54,5 @@ A quick [demo](files/demo.mp4) video has also been added for preview.
 
 ## Resources
 
-* [NewsBreeze by Dhanesh](https://github.com/dhaneshchappidi/NewsBreeze))
+* [NewsBreeze by Dhanesh](https://github.com/dhaneshchappidi/NewsBreeze)
 * [Android Developers](https://developer.android.com/)
